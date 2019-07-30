@@ -20,5 +20,7 @@ You can choose one of the folowing options:
 3. choose_action(3, "imp.jpg") - for coloring the image (without cleaning).
 
 For running in colab: upload image named "imp.jpg" to the drive. fix_me initialized to option 2.
+The output images for restore saves to "_restored.png"
+The output images for coloring saves to "_colorized.png"
 
  
